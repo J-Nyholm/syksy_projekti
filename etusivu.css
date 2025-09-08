@@ -2,6 +2,12 @@ body {
     margin: 0;
     height: 100vh;
     background-image: url(./download.jfif);
+    background-size: cover;      /* Peittää koko alueen */
+    background-repeat: no-repeat; /* Ei toistu */
+    background-attachment: fixed; /* KUVA PYSYY PAIKALLAAN kun skrollataan */
+    background-position: center; /* Keskitetään */
+    color: white; /* Voi auttaa luettavuudessa */
+    font-family: sans-serif;
 }
 
 html, body {
