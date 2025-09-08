@@ -1,8 +1,7 @@
 body {
     margin: 0;
     height: 100vh;
-<<<<<<< HEAD
-    background-image: ;
+    background-image: url(./download.jfif);
 }
 
 html, body {
@@ -17,7 +16,4 @@ body {
 
 main {
   flex: 1;
-=======
-    background-image: url(./download.jfif);
->>>>>>> 20d3f58ebf1ade3e0e9976d4498e31f84accf968
 }
