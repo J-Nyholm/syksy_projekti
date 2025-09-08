@@ -8,6 +8,8 @@ body {
     background-position: center; /* Keskitetään */
     color: white; /* Voi auttaa luettavuudessa */
     font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
 }
 
 html, body {
